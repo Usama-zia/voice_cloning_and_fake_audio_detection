@@ -1,4 +1,3 @@
-Here's the `README.md` for the "voice_cloning_and_fake_audio_detection" repository:
 
 ---
 
@@ -9,6 +8,8 @@ VCFAD - Voice Cloning and Fake Audio Detection
 
 ## Background:
 We are a technology company working in the Cyber Security industry. Our focus is on building systems that ensure safe and secure digital presence by providing cutting-edge technologies. This project aims to create algorithms that can synthesize spoken audio by converting one speaker's voice to another's and to detect whether spoken audio is authentic or fake.
+
+Work on this porject is on going.
 
 ## Data Description:
 There are two datasets utilized in this project, both publicly available:
@@ -78,16 +79,6 @@ Common Voice is a corpus of speech data collected by Mozilla to help teach machi
 │
 └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 ```
-
-## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
